@@ -1,4 +1,3 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
 Hi, I’m Giacomo D'angelo 👋 
 
+I work as a project manager in an energy company. In my past experience I wrote code to meet business requirements, so I decided to recover what I wrote and continue for fun.
